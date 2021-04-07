@@ -1,0 +1,19 @@
+{
+    "name": "lpupopena/cms",
+    "description": "Para gestión de usuarios",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Liudmila Pupo",
+            "email": "lpupopena@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Lpupopena\\Cms\\": "src/"
+        }
+    },
+    "require": {}
+}
